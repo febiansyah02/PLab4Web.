@@ -78,6 +78,13 @@ app/
 
 1. Halaman Sign In
 
-2. Notifikasi Login Gagal
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0323e9fd-dca9-4468-a4fc-43cbfeb34ddb" />
 
-3. Berhasil Masuk Dashboard Admin
+3. Notifikasi Login Gagal
+
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ca56ddd-a6a9-4412-9534-602757364a23" />
+
+5. Berhasil Masuk Dashboard Admin
+
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc9ed409-39ff-4216-9f7c-028dd13d6421" />
+
